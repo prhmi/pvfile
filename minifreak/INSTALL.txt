@@ -1,33 +1,11 @@
 Arturia MiniFreak V v4.0.2.6369
 -------------------------------------------------------------------------------
 
-Install the original setup:
+copy here:
 
-	- MiniFreak_V__4_0_2_6369.exe
+C:\Program Files\Common Files\VST3
+C:\Program Files\Steinberg\VSTPlugins\Arturia
+C:\ProgramData\Arturia\MiniFreak V\x64
 
-Once installed, 
-copy and replace the .dll and .vst3 from the "Patch" folder in their corresponding directories.
 
-VST3: C:\Program Files\Common Files\VST3
-
-DLL: In your plugins folder
-
-Besides you have to copy and replace these files in:
-
-	C:\ProgramData\Arturia\MiniFreak V\x64
-
--------------------------------------------------------------------------------
-V4.0.1
-
-Bugfixes & Improvements
-
-- No more crashes in Studio One when removing a plugin
-- No more issues with Pigments top preset bar when duplicating tracks in Logic X
-- Browsing with the keyboard arrows inside the Quick Preset browser now filters Types correctly
-- MIDI config is now correctly recalled in your DAW
-- No more MIDI port error pop-up on Protools and Digital Performer when using a controller
-- Fixed a random issue where Factory presets were not installed properly
-- Windows installers are now working as expected
-
--------------------------------------------------------------------------------
 Patches josenacha 26/10/2025.
